@@ -1,2 +1,0 @@
-# aws-samples
-Exemple-aws
